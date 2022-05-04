@@ -1,6 +1,6 @@
-# Website
+# Docusaurus + TailwindCSS Example
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[Docusaurus 2](https://docusaurus.io/) with [tailwindcss](https://tailwindcss.com/) website created by following [Using TailwindCSS v3 in Docusaurus in 5 steps](https://dev.to/sajclarke_62/using-tailwindcss-v3-in-docusaurus-in-5-steps-5c26) 👍
 
 ### Installation
 
